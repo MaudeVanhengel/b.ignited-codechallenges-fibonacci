@@ -6,7 +6,11 @@
 
 ### Run
 
-`python3 fibonacci.py`
+`python3 main.py`
+
+### Test
+
+`python3 -m unittest test_fibonacci.py -v`
 
 ### Description:
 
