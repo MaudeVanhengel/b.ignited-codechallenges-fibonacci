@@ -14,7 +14,7 @@ De bedoeling is om de 10 volgende getallen van de fibonnaci reeks te berekenen o
 
 ### Solution:
 
-1. Created a lambda "nearestFibonacci". Based on [this](https://codegolf.stackexchange.com/a/133437) codegolf code.
+1. Created a lambda "nearestFibonacci". Based on [this](https://codegolf.stackexchange.com/a/133437) codegolf code. [Why invent the wheel again ;-)]
 
 > Iterates through pairs of consecutive Fibonacci numbers (a,b) until it reaches one where the input n is less than their midpoint (a+b)/2, then returns a.
 
